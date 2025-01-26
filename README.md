@@ -6,7 +6,6 @@ Este proyecto es una página web que muestra información sobre festivales de m�
 
 - **Búsqueda Dinámica**: Los usuarios pueden buscar festivales utilizando diferentes criterios como nombre, género, ubicación, fecha, precio y artistas.
 - **Resultados Visuales**: Los festivales se muestran con imágenes, nombres, géneros, ubicaciones, fechas, precios y artistas.
-- **Diseño Responsive**: La página se adapta a diferentes tamaños de pantalla y dispositivos.
 - **Carga Automática**: Al cargar la página, se muestran automáticamente todos los festivales disponibles.
 
   <img width="908" alt="{7CDF6B8D-CBE6-4B98-BACF-7A79C268A964}" src="https://github.com/user-attachments/assets/70336c7f-3ded-4f9f-b078-3852741e54d1" />
