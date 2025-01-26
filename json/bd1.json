@@ -1,0 +1,175 @@
+{
+"festivales": 
+[
+    {
+        "nombre": "Tomorrowland",
+        "genero": "Música Electrónica",
+        "ubicacion": "Bélgica",
+        "fecha": "2025-07-15",
+        "precio": 400,
+        "duracion": "5 horas",
+        "artistas": ["Martin Garrix", " Armin van Buuren", " Tiësto", " Charlotte de Witte"],
+        "img": "json/bd1-img/tomorrow.jpg"
+      },
+      {
+        "nombre": "Kerrville Folk Festival",
+        "genero": "Folk",
+        "ubicacion": "Texas",
+        "fecha": "2025-05-28",
+        "precio": 200,
+        "duracion": "18 días",
+        "artistas": ["Joan Baez", " Iron & Wine", " The Milk Carton Kids", " Gillian Welch"],
+        "img": "json/bd1-img/Kerrville.jpg"
+      },
+      {
+        "nombre": "Gulf Coast Jam",
+        "genero": "Country",
+        "ubicacion": "Florida",
+        "fecha": "2025-05-29",
+        "precio": 220,
+        "duracion": "4 días",
+        "artistas": ["Luke Bryan", " Carrie Underwood", " Jason Aldean", " Miranda Lambert"],
+        "img": "json/bd1-img/gulf.jpg"
+      },
+      {
+        "nombre": "Spring Break Island",
+        "genero": "Música Electrónica",
+        "ubicacion": "Croacia",
+        "fecha": "2025-05-29",
+        "precio": 300,
+        "duracion": "5 días",
+        "artistas": ["David Guetta", " Alesso", " Hardwell", " Oliver Heldens"],
+        "img": "json/bd1-img/spring.jpg"
+      },
+      {
+        "nombre": "Intents Festival",
+        "genero": "Hardstyle",
+        "ubicacion": "Países Bajos",
+        "fecha": "2025-06-01",
+        "precio": 450,
+        "duracion": "3 días",
+        "artistas": ["Headhunterz", " Brennan Heart", " Sub Zero Project", " D-Block & S-te-Fan"],
+        "img": "json/bd1-img/intents.jpg"
+      },
+      {
+        "nombre": "Coachella",
+        "genero": "Pop",
+        "ubicacion": "Estados Unidos",
+        "fecha": "2025-04-08",
+        "precio": 500,
+        "duracion": "6 días",
+        "artistas": ["Lady Gaga", " Green Day", " Post Malone", " Anita", " Charlie xcx"],
+        "img": "json/bd1-img/coachella.jpg"
+      },
+      {
+        "nombre": "Lollapalooza",
+        "genero": "Pop",
+        "ubicacion": "Brasil",
+        "fecha": "2025-03-08",
+        "precio": 300,
+        "duracion": "6 días",
+        "artistas": ["Mon Laferte", " Paco Amoroso", " Shawn Mendes", " Anita"],
+        "img": "json/bd1-img/lollapalloza.jpg"
+      },
+      {
+        "nombre": "Ultra Music Festival",
+        "genero": "Música Electrónica",
+        "ubicacion": "Miami",
+        "fecha": "2025-03-21",
+        "precio": 350,
+        "duracion": "3 días",
+        "artistas": ["Martin Garrix", " David Guetta", " Armin van Buuren", " Charlotte de Witte"],
+        "img": "json/bd1-img/ultra.jpg"
+      },
+      {
+        "nombre": "Austin City Limits",
+        "genero": "Folk",
+        "ubicacion": "Texas",
+        "fecha": "2025-10-04",
+        "precio": 300,
+        "duracion": "6 días",
+        "artistas": ["Iron & Wine", " The Milk Carton Kids", " Gillian Welch", " Joan Baez"],
+        "img": "json/bd1-img/austin.jpg"
+      },
+      {
+        "nombre": "Stagecoach Festival",
+        "genero": "Country",
+        "ubicacion": "California",
+        "fecha": "2025-04-25",
+        "precio": 250,
+        "duracion": "3 días",
+        "artistas": ["Luke Bryan", " Miranda Lambert", " Jason Aldean", " Carrie Underwood"],
+        "img": "json/bd1-img/stagecoach.jpg"
+      },
+      {
+        "nombre": "Rock in Rio",
+        "genero": "Pop",
+        "ubicacion": "Portugal",
+        "fecha": "2025-06-20",
+        "precio": 450,
+        "duracion": "4 días",
+        "artistas": ["Shawn Mendes", " Green Day", " Lady Gaga", " Post Malone"],
+        "img": "json/bd1-img/rock.jpg"
+      },
+      {
+        "nombre": "Creamfields",
+        "genero": "Música Electrónica",
+        "ubicacion": "Reino Unido",
+        "fecha": "2025-08-22",
+        "precio": 400,
+        "duracion": "4 días",
+        "artistas": ["Tiësto", " Hardwell", " Alesso", " David Guetta", "Martin Garrix"],
+        "img": "json/bd1-img/creamfields.jpg"
+      },
+      {
+        "nombre": "Primavera Sound",
+        "genero": "Indie/Pop",
+        "ubicacion": "España",
+        "fecha": "2025-06-05",
+        "precio": 250,
+        "duracion": "4 días",
+        "artistas": ["Mon Laferte", " Shawn Mendes", " Post Malone", " Anita"],
+        "img": "json/bd1-img/primavera.jpg"
+      },
+      {
+        "nombre": "EDC Las Vegas",
+        "genero": "Música Electrónica",
+        "ubicacion": "Estados Unidos",
+        "fecha": "2025-05-17",
+        "precio": 500,
+        "duracion": "3 días",
+        "artistas": ["Martin Garrix", " Tiësto", " Charlotte de Witte", " Alesso"],
+        "img": "json/bd1-img/EDC.jpg"
+      },
+      {
+        "nombre": "Burning Man",
+        "genero": "Música Electrónica",
+        "ubicacion": "Nevada",
+        "fecha": "2025-08-25",
+        "precio": 300,
+        "duracion": "7 días",
+        "artistas": ["David Guetta", " Charlotte de Witte"],
+        "img": "json/bd1-img/burning.jpg"
+      },
+      {
+        "nombre": "Download Festival",
+        "genero": "Rock/Metal",
+        "ubicacion": "Reino Unido",
+        "fecha": "2025-06-14",
+        "precio": 250,
+        "duracion": "3 días",
+        "artistas": ["Green Day", " Iron Maiden", " Slipknot", " Metallica", "Guns N' Roses"],
+        "img": "json/bd1-img/download.jpg"
+      },
+      {
+        "nombre": "Sziget Festival",
+        "genero": "Pop/Multigénero",
+        "ubicacion": "Hungría",
+        "fecha": "2025-08-07",
+        "precio": 350,
+        "duracion": "7 días",
+        "artistas": ["Lady Gaga", " Post Malone", " Shawn Mendes", " Martin Garrix"],
+        "img": "json/bd1-img/sziget.jpg"
+      }
+]
+}
